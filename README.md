@@ -50,7 +50,7 @@ This tool is useful for educational purposes, including learning about network p
 - Identify protocol types (TCP, UDP, etc.).
 - Preview payload data when available.
 - Save captured traffic to a PCAP file for later analysis.
-- Stop packet capturing using the Esc key.
+- Stop packet capturing using the `Esc` key.
 
 ## Future Improvements
 
